@@ -1,0 +1,5 @@
+pytest>=0.0
+pytest_logging>=0.0
+rdflib>=0.0
+json>=0.0
+pyyaml>=0.0
