@@ -1,0 +1,10 @@
+@prefix : <http://x.org/> .
+
+## Fred
+:fred a :Person ;
+      :knows :shuggy ;
+      :likes :Cheese .
+
+:shuggy a :Person ;
+      :likes :Punk ;
+      :livesIn :wormit .
